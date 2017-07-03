@@ -1,4 +1,4 @@
-This takes Fraud data and fits a Decision tree classifier to the data.
+This takes Fraud data (Fraud_Data.csv) and fits a Decision tree classifier to the data.
 
 fraud_decisiontree.pdf shows a visual of a decision tree with 100% classification accuracy, 
 and the ipynb file shows the creation of the model and visual.
